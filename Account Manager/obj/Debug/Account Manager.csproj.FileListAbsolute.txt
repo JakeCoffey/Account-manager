@@ -1,0 +1,12 @@
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\bin\Debug\Account Manager.exe.config
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\bin\Debug\Account Manager.exe
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\bin\Debug\Account Manager.pdb
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.csproj.AssemblyReference.cache
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account_Manager.Dashboard.resources
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account_Manager.Properties.Resources.resources
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.exe
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.pdb
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account_Manager.CreateForm.resources
