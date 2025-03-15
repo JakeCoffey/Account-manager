@@ -10,3 +10,7 @@ C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Accoun
 C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.exe
 C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.pdb
 C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account_Manager.CreateForm.resources
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account_Manager.ConfirmCreate.resources
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jakec\Documents\GitHub\Account-manager\Account Manager\obj\Debug\Account Manager.csproj.CopyComplete

@@ -25,8 +25,9 @@ namespace Account_Manager
         private void button1_Click(object sender, EventArgs e)
         {
             var CreateForm = new CreateForm();
-            CreateForm.Show();
             this.Hide();
+            CreateForm.Show();
+           
 
         }
     }
